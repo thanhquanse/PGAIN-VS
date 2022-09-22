@@ -1,0 +1,101 @@
+[
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BAIA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BAIA-MARE_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BARLAD_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BISTRITA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BOTOSANI_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BRAILA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BRASOV_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BUCHAREST_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BUCURESTI_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BUZAU_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_CALARASI_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_CLUJ-NAPOCA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_CONSTANTA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_CRAIOVA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_DROBETA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_FOCSANI_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_GALATI_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_PIATRA-NEAMT_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_PLOIESTI_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_RAMNICU-VALCEA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_ROMAN_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_BACAU_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_SATU-MARE_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_SLATINA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_TARGU-MURES_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_TULCEA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_ARAD_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_DEVA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_SIBIU_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_SUCEAVA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_TIMISOARA_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_IASI_temperature"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_RomanianWeather_RO_temperature"
+    }
+]

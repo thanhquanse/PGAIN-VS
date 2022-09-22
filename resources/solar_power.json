@@ -1,0 +1,66 @@
+
+[
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:473:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:474:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:475:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:476:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:477:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:478:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:479:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:480:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:481:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:482:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:483:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:484:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:485:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:486:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:487:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:488:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:489:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:490:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:491:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:492:currentProduction"
+    },
+    {
+        "id": "urn:ngsi-ld:Sensor:SolarPowerAarhus:493:currentProduction"
+    }
+]

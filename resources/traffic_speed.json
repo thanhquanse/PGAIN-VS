@@ -1,0 +1,623 @@
+[
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773869"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767541"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767542"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717447"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717446"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717445"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773062"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767620"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_737529"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717816"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_765604"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767471"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716339"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773906"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_765273"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716331"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_771667"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716337"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769953"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769402"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769403"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769819"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769405"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716941"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717578"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716960"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717804"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767572"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767573"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773012"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773013"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764424"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769388"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716328"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717819"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769941"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_760987"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718204"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718045"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769418"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_768066"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_772140"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773927"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_760024"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_774012"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_774011"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767609"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769359"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_760650"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716956"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769831"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_761604"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717495"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716554"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773953"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767470"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716955"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764949"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773954"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767366"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769444"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773939"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_774067"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769443"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767750"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767751"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767610"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773880"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764766"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717497"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717490"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717491"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717492"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717493"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_765176"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717498"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717499"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_765171"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718064"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718066"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_765164"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769431"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769430"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717610"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767053"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767621"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_772596"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_772597"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767350"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767351"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716571"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773023"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767585"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773024"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717483"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718379"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717481"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717480"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717486"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764120"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_772151"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718371"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717489"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717488"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717818"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718076"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718072"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767455"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767454"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_761599"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717099"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773916"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716968"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769467"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717576"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717573"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717572"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717571"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717570"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764760"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718089"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769847"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717608"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767523"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716942"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718090"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769867"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717472"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717473"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_759591"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764781"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_765099"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_762329"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716953"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716951"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767509"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_765182"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769358"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_772513"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716958"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718496"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769346"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773904"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718499"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764853"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_761003"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717502"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_759602"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717504"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_763995"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717508"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_765265"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773996"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773995"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717469"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717468"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764106"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717465"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764794"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717466"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717461"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717460"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717463"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717462"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769345"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716943"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_772669"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717582"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717583"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717580"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716949"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717587"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_772178"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717585"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_716939"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_768469"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764101"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767554"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773975"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_773974"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717510"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717513"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717825"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767495"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_767494"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717821"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717823"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717458"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717459"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769926"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_764858"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717450"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717452"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717453"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_759772"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717456"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_771673"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_772167"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769372"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_774204"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769806"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717590"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717592"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_717595"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_772168"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_718141"
+    },
+    {
+        "id": "urn_ngsi-ld_Sensor_TrafficLA_peed_769373"
+    }
+]
